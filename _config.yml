@@ -44,6 +44,9 @@ minima:
 #header_pages:
 # - about.md
 
+ google_analytics: UA-146741633-1
+
+
 # Build settings
 theme: minima
 
